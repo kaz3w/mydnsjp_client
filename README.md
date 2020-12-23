@@ -1,5 +1,5 @@
 # mydnsjp_client
-IP address update client script for MyDNS.JP
+IP address update client Python script for MyDNS.JP
 
 ## Usage
 usage: client.py [-h] [-r] [-v] [-d]
